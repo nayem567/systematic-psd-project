@@ -127,7 +127,7 @@ img{
 
 .search-area input[type="submit"]{
    width: 23%;
-   background: url(/img/search.png);
+   background: url(../../img/search.png);
    background-repeat: no-repeat;
    background-position: right;
    cursor: pointer;
